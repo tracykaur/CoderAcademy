@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+
+header{
+    /* The image used */
+    background-image: url("pascale-amez-123636.jpg");
+    /* Set a specific height */
+    height: 600px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+padding:120px 200px;
+font-size: 48px;
+text-align:center;
+}
+h2{
+padding:0px 150px;
+font-size: 32px;
+text-align:center;
+}
+
+.summary{background-image: url("https://cdn.pixabay.com/photo/2012/04/13/18/19/clouds-33139_960_720.png");
+/* Set a specific height */
+height: 400px;
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 26px;
+text-align:center;
+}
+
+.preamble{background-image: url("https://cdn.pixabay.com/photo/2016/12/10/19/37/koster-1898042__340.png");
+/* Set a specific height */
+height: 600px;
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+padding:0px 150px;
+font-size: 22px;
+text-align:center;
+}
+
+.benefits{background-image: url("https://cdn.pixabay.com/photo/2016/06/04/08/38/purple-1435145__340.jpg");
+/* Set a specific height */
+height: 600px;
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 22px;
+text-align:center;
+}
+
+.explanation {background-image: url("https://cdn.pixabay.com/photo/2013/03/02/02/41/animal-89206__340.jpg");
+/* Set a specific height */
+height: 600px;
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 22px;
+text-align:center;
+}
+
+
+
+.participation{background-image: url("https://cdn.pixabay.com/photo/2016/10/05/16/00/tree-1716991__340.png");
+/* Set a specific height */
+height: 600px;
+/* Create the parallax scrolling effect */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 18px;
+text-align:center;
+clear: both;
+}
+
+.requirements{
+    /* The image used */
+    background-image: url("https://cdn.pixabay.com/photo/2014/12/12/16/34/hands-565603__340.png");
+    /* Set a specific height */
+    height: 600px;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:0px 0px;
+    font-size: 14px;
+    text-align:center;
+}
+
+.body {
+  font-family: monospace;
+}
+
+.sidebar {
+  background-image: url("https://cdn.pixabay.com/photo/2017/06/20/17/16/background-2423825__340.jpg");
+  /* Set a specific height */
+  height: 600px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding:0px 0px;
+  font-size: 14px;
+  text-align:center;
+  }
+
+  footer ul li.highlight {
+    color: red;
+  }
+  footer {
+    border: 1px solid #000;
+    padding: 20px;
+    text-align:center
+  }
+  body {
+      font-family: 'Gloria Hallelujah', cursive;
+      line-height: 1.88889;
+      color: black;
+  }
